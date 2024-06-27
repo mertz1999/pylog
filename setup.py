@@ -12,9 +12,7 @@ setup(
     url='https://github.com/mertz1999/pylog',
     license='MIT',
     install_requires=[
-        'os',
         'colorama',
-        'datetime',
     ],
     python_requires='>=3.6',
     classifiers=[
