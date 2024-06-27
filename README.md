@@ -14,7 +14,7 @@
 To install pylog, use pip:
 
 ```bash
-pip install pylog
+pip install git+https://github.com/mertz1999/pylog.git
 ```
 
 # Usage
